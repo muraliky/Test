@@ -1,0 +1,26 @@
+{
+  "name": "WIM Dashboard Light",
+  "dataColors": ["#E2574C", "#3FA796", "#F2B705", "#445068", "#6B7280", "#EAE4DF"],
+  "background": "#FFFFFF",
+  "foreground": "#2B2F36",
+  "tableAccent": "#E2574C",
+  "good": "#3FA796",
+  "neutral": "#F2B705",
+  "bad": "#E2574C",
+  "maximum": "#E2574C",
+  "center": "#EAE4DF",
+  "minimum": "#FAF8F6",
+  "textClasses": {
+    "callout": { "color": "#C23B31" },
+    "title": { "color": "#2B2F36" },
+    "header": { "color": "#445068" }
+  },
+  "visualStyles": {
+    "card": {
+      "*": {
+        "labels": [{ "color": "#E2574C", "fontSize": 28 }],
+        "categoryLabels": [{ "color": "#6B7280" }]
+      }
+    }
+  }
+}
